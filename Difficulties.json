@@ -1,1 +1,32 @@
-
+[
+{
+		"name": "God",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [],
+        "aiDifficultyLevel": "Chieftain",
+		"aiCityGrowthModifier": 0.3,
+		"aiUnitCostModifier": 0.25,
+		"aiBuildingCostModifier": 0.25,
+		"aiWonderCostModifier": 0.75,
+		"aiBuildingMaintenanceModifier": 0.25,
+		"aiUnitMaintenanceModifier": 0.25,
+		"aiUnitSupplyModifier": 0.25,
+		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
+		"aiMajorCivBonusStartingUnits": ["Settler", "Settler", "Settler", "Worker", "Worker", "Worker", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 25
+	}
+]
