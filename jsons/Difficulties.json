@@ -33,7 +33,7 @@
 		"name": "King*2Happiness",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 5,
+		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 2,
