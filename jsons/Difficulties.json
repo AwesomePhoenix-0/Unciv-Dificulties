@@ -30,10 +30,10 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "King*2Happiness",
+		"name": "King*2Happiness,*0.2Science",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 1,
+		"researchCostModifier": 5,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 2,
@@ -43,7 +43,7 @@
 		"barbarianBonus": 0.25,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
-        "aiDifficultyLevel": "Chieftain",
+        "aiDifficultyLevel": "King*2Happiness",
 		"aiCityGrowthModifier": 0.9,
 		"aiUnitCostModifier": 0.85,
 		"aiBuildingCostModifier": 0.85,
