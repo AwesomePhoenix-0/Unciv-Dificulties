@@ -43,7 +43,7 @@
 		"barbarianBonus": 0.25,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
-        "aiDifficultyLevel": "Cheiftan",
+        "aiDifficultyLevel": "Chieftan",
 		"aiCityGrowthModifier": 0.9,
 		"aiUnitCostModifier": 0.85,
 		"aiBuildingCostModifier": 0.85,
